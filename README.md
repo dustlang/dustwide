@@ -1,6 +1,6 @@
-# Rustwide
+# Dustwide
 
-Rustwide is a library to execute your code on the Rust ecosystem, powering
+Dustwide is a library to execute your code on the Dust ecosystem, powering
 projects like [Crater] and [docs.rs]. It features:
 
 * Linux and Windows support.
